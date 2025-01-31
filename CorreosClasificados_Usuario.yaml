@@ -1,0 +1,28 @@
+- label: Spam
+  message: ¡Felicitaciones! Has ganado un crucero por el Caribe. Haz clic aquí para
+    reclamar tu premio.
+- label: Spam
+  message: Aprovecha nuestra oferta especial de préstamos con intereses bajos. Solicita
+    el tuyo hoy mismo.
+- label: Spam
+  message: ¡Gana $500 al día trabajando desde casa! Haz clic en este enlace para más
+    información.
+- label: Spam
+  message: Tu cuenta ha sido seleccionada para recibir un bono de $1000. Reclámalo
+    ahora haciendo clic aquí.
+- label: Spam
+  message: ¡Gana dinero fácil! Solo necesitas un correo electrónico y un teléfono.
+- label: NO spam
+  message: Recuerda que tienes una consulta médica programada para el próximo lunes
+    a las 9:00 AM.
+- label: NO spam
+  message: Te invitamos a nuestro próximo webinar gratuito sobre marketing digital.
+    ¡Regístrate aquí!
+- label: NO spam
+  message: Su factura de este mes está disponible. Puede verla y descargarla desde
+    el portal de clientes.
+- label: NO spam
+  message: Estimado usuario, su reserva de hotel está confirmada para el próximo mes.
+- label: Spam
+  message: Confirma tu dirección de correo electrónico para activar tu cuenta y obtener
+    tu bono de bienvenida de $500.

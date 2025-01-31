@@ -1,0 +1,11 @@
+messages:
+  - "Nos gustaría saber tu opinión sobre nuestra última actualización de software. Por favor, completa esta breve encuesta."  # No SPAM
+  - "Recuerda que tu pago mensual está pendiente. Por favor, realiza el pago antes de la fecha límite."  # No SPAM
+  - "Tu cuenta ha sido actualizada con éxito. Gracias por mantener tus datos al día."  # No SPAM
+  - "¡Felicitaciones! Has ganado un crucero por el Caribe. Haz clic aquí para reclamar tu premio."  # SPAM
+  - "Aprovecha nuestra oferta especial de préstamos con intereses bajos. Solicita el tuyo hoy mismo."  # SPAM
+  - "¡Gana $500 al día trabajando desde casa! Haz clic en este enlace para más información."  # SPAM
+  - "Tu cuenta ha sido seleccionada para recibir un bono de $1000. Reclámalo ahora haciendo clic aquí."  # SPAM
+  - "Recibe un iPhone GRATIS al completar esta sencilla encuesta. Oferta válida solo por hoy."  # SPAM
+  - "Estimado cliente, su suscripción ha caducado. Renueve ahora para seguir disfrutando de nuestros servicios."  # SPAM
+  - "Recuerda que tienes una consulta médica programada para el próximo lunes a las 9:00 AM."  # No SPAM
